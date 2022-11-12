@@ -1,0 +1,3 @@
+rootProject.name = 'module'
+include 'test-a'
+include 'test-b'
